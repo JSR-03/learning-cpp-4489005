@@ -90,5 +90,9 @@
     "xtr1common": "cpp",
     "xutility": "cpp",
     "stack": "cpp"
-  }
+},
+"C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
+    "clang-diagnostic-fortify-source",
+    "clang-diagnostic-error"
+]
 }
