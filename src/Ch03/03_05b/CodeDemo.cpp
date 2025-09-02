@@ -4,6 +4,7 @@
 
 #include <iostream>
 #include <string>
+#include "cow.h"
 
 enum class cow_purpose {dairy, meat, hide, pet};
 
