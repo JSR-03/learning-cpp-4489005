@@ -30,7 +30,7 @@ int main(){
         result = operand_1 / operand_2;
         break;
         default:
-        result = operand_1 = operand_2;
+        result = operand_1 + operand_2;
         break;
     }
 
